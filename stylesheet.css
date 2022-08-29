@@ -1,3 +1,8 @@
 body{
-  background-color: black;
+  background-image: url(last.jpg);
+  opacity: 0.5;
+}
+
+h1{
+  color: red;
 }
